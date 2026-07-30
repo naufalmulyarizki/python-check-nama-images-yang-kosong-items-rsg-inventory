@@ -1,0 +1,26 @@
+============================================================
+LAPORAN CEK ITEM TANPA GAMBAR (MISSING IMAGES)
+Tanggal: 2026-07-30 11:03:44
+============================================================
+
+Total item di items.lua : 178
+Total gambar tersedia   : 252
+Total item TANPA gambar : 11
+
+------------------------------------------------------------
+DAFTAR ITEM YANG GAMBARNYA TIDAK ADA:
+------------------------------------------------------------
+NO   NAMA ITEM                     FILE GAMBAR YANG DICARI
+------------------------------------------------------------
+1    fieldbandage                  fieldbandage.png
+2    birdpost                      birdpost.png
+3    weapon_sniperrifle_rollingblock_exoticweapon_sniperrifle_rollingblock_exotic.png
+4    weapon_melee_machete_horror   weapon_melee_machete_horror.png
+5    weapon_kit_metal_detector     weapon_kit_metal_detector.png
+6    weapon_melee_hatchet          weapon_melee_hatchet.png
+7    weapon_thrown_tomahawk_ancientweapon_thrown_tomahawk_ancient.png
+8    weapon_thrown_bolas_intertwinedweapon_thrown_bolas_intertwined.png
+9    ammo_box_pistol_splitpoint    ammo_box_pistol_splitpoint.png
+10   ammo_box_repeater_splitpoint  ammo_box_repeater_splitpoint.png
+11   ammo_box_rifle_splitpoint     ammo_box_rifle_splitpoint.png
+------------------------------------------------------------
