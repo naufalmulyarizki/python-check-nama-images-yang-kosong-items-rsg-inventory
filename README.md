@@ -1,3 +1,5 @@
+![preview1](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/images/backgroundgithub.png)
+
 # Cek Missing Images - RSG Inventory
 
 Script Python sederhana untuk mengecek item di file `items.lua` (RSGShared.Items) yang **tidak memiliki file gambar** di folder `images/`. Hasil pengecekan disimpan dalam bentuk file `.txt` yang mudah dibaca.
